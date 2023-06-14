@@ -6,7 +6,7 @@ function App() {
 
   return (
     <>
-      <div>/Ecommerce</div>
+      <h3>HELLO WORLD</h3>
     </>
   )
 }
