@@ -2,14 +2,12 @@
 import './App.css'
 
 function App() {
-
+  
 
   return (
-  <>
-
- <div>ecommerce</div>
-
- </>
+    <>
+      <div>/Ecommerce</div>
+    </>
   )
 }
 
